@@ -9,7 +9,3 @@ This project hosts my portfolio and blog using GitHub Pages.
 ## Getting Started
 
 To view the site, visit: [zeshanmubshir.github.io](https://zeshanmubshir.github.io)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
